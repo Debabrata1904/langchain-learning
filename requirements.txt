@@ -1,0 +1,25 @@
+# LangChain
+langchain
+langchain-core
+
+# Google Gemini
+langchain-google-genai
+
+# Groq
+langchain-groq
+
+# Hugging Face
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variables
+python-dotenv
+
+# ML / Data Utilities
+numpy
+scikit-learn
+
+# Jupyter
+jupyter
+ipykernel
